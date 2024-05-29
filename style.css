@@ -1,0 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+  color: black;
+  font-family: sans-serif;
+  list-style-type: none;
+}
+.nav {
+  height: 70px;
+  background-color: antiquewhite;
+}
+.nav li {
+  display: inline-block;
+  margin: 20px;
+  padding: 5px;
+  float: right;
+  cursor: pointer;
+}
