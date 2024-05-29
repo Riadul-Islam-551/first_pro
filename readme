@@ -1,1 +1,16 @@
 This file was added by Md. Dipu <srdipu@hotmail.com>
+
+
+*git download
+-git init
+-git add .
+-git branch -M main
+-link with remote origin
+-git commit -m "________"
+-git push -u origin main
+
+*git clone
+*git pull
+*hosting : settings > pages > branch(main)- build and deploy > root > save > wait sometimes and your host wii be ready
+
+*collaborator add people
